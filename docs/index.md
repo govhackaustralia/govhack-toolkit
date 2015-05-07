@@ -1,4 +1,4 @@
-# The GovHack Developer Toolkit
+<h1>The GovHack Developer Toolkit</h1>
 
 This page provides all the information you'll need to prepare your [GovHack](http://www.govhack.org/) entries, and a wealth of links to tools, techniques, and libraries to help you build an awesome project. You can use these resources to build any sort of project - mobile apps, web apps, APIs, data visualisations/infographics, and more. You're not limited to using the resources and tools in this page, but your actual entries must meet the [competition eligibility rules](http://www.govhack.org/competition-rules-code-of-conduct/).
 
