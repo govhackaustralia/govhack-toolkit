@@ -1,0 +1,1 @@
+The text of this toolkit is open for reuse under a [Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/au/deed.en) license and improvements and suggestions are encouraged by submitting them on [GitHub](http://github.com/govhackaustralia/govhack-tools/issues).
