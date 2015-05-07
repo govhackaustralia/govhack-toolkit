@@ -1,6 +1,6 @@
 site_name: GovHack Hacker Toolkit
 pages:
-    - [index.md, Home]
+    - [index.md, Home, The GovHack Developer Toolkit]
     - [event-info/anatomy.md, Event Information, Anatomy of GovHack Project]
     - [event-info/mentors.md, Event Information, Data Mentors]
     - [event-info/project-hosting.md, Event Information, Putting Your Project on the Web]
