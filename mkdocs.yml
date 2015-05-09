@@ -16,3 +16,6 @@ pages:
     - [technical/graph-dbs.md, Hacking Tips, Graph Databases]
     - [legalese.md, Legalese]
 theme: readthedocs
+site_favicon: imgs/favicon.ico
+extra_javascript: [scripts/fix-title.js]
+google_analytics: ['UA-62782767-1', 'govhack-toolkit.readthedocs.org']
