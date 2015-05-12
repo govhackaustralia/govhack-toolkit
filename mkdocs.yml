@@ -18,4 +18,4 @@ pages:
 theme: readthedocs
 site_favicon: imgs/favicon.ico
 extra_javascript: [scripts/fix-title.js]
-google_analytics: ['UA-62782767-1', 'govhack-toolkit.readthedocs.org']
+google_analytics: ['UA-45822127-3', 'govhack-toolkit.readthedocs.org']
