@@ -1,11 +1,12 @@
 site_name: GovHack Hacker Toolkit
 pages:
     - [index.md, Home, The GovHack Developer Toolkit]
-    - [event-info/anatomy.md, Event Information, Anatomy of GovHack Project]
+    - [event-info/anatomy.md, Event Information, Anatomy of a GovHack Project]
     - [event-info/mentors.md, Event Information, Data Mentors]
     - [event-info/project-hosting.md, Event Information, Putting Your Project on the Web]
     - [event-info/productive-hacking.md, Event Information, Tools for More Producive Hacking]
     - [event-info/preparation.md, Event Information, Preparing for GovHack]
+    - [event-info/kids-who-code.md, Event Information, Kids Who Code]
     - [technical/data-viz.md, Hacking Tips, Data Visualisation for Fun and Profit]
     - [technical/mobile-dev.md, Hacking Tips, Mobile Development]
     - [technical/geographic-data.md, Hacking Tips, Working with Geographic Data]
