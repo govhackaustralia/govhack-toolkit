@@ -36,6 +36,15 @@ And a couple of honorary mentions:
 
 ESRI's ArcGIS software suite is worth a brief mention as the main commercial provider of geospatial software in the world, including its SaaS [ArcGIS Online](https://www.arcgis.com/home/) platform - which provides a 60-day free trial, after which you're required to pay (handsomely).
 
+## NationalMap (aka TerriaJS)
+
+And finally, a most honourary mention to the [NationalMap](http://nationalmap.nicta.com.au/) project out of the Department of Communications and developed by NICTA. NationlMap [runs on a powerful little open source stack](http://nationalmap.nicta.com.au/help/About.html) comprised of Cesium, Leaflet, topogeojson, Jasmine, et cetera. While NationalMap, being primarily a client-side viewing framework, isn't a true "Maps as a Service" platform it does have a nifty hidden feature - you can [pass it the URL to a JSON file](http://nationalmap.gov.au/help/HowTo.html#DisplayMyOwnSpatialData) and use an iframe to embed the result in your webpage.
+
+Ta-da! Instant map :)
+
+![A screenshot of NICTA's National Map web mapping app](../imgs/national-map-overlay.jpg)
+
+There's also some work going on to turn NationalMap into a standalone single page JS library called [TerriaJS](https://github.com/TerriaJS/TerriaJS) - so watch this space for GovHack 2016!
 
 # JavaScript mapping libraries
 
@@ -44,8 +53,6 @@ These past few years have seen an explosion in the numbers of JavaScript librari
 [OpenLayers](http://openlayers.org/) is probably the most mature player on the stage, and has recently undergone a ground-up rewrite of the library to simplify the API and leverage modern web technologies like WebGL, Canvas, and the full capabilities of HTML5 and CSS3. It even has support for true 3D web mapping via its [OL3-Cesium](http://openlayers.org/ol3-cesium/) plugin which seamlessly integrates the [Cesium](https://cesium.agi.com/) WebGL 3D globe library.
 
 [Leaflet](http://leafletjs.com/), the relatively new kid on the block, started as a protest against other web mapping libraries that required a fair amount of knowledge of geopsatial data to use effectively. As such, it is a super simple API and a more limited range of features than the likes of OpenLayers (but has a large library of community-developed plugins that can help address that gap).
-
-![A screenshot of NICTA's National Map web mapping app](../imgs/national-map.png)
 
 [ModestMaps](http://modestmaps.com/) is an even simpler library again than Leaflet, with a simple API and a focus on the core functionality of producing interactive maps easily.
 
@@ -56,6 +63,8 @@ These past few years have seen an explosion in the numbers of JavaScript librari
 If you're looking at maps as more of a data visualisation tool then the subcategory of web mapping libraries that play in the SVG space are probably more appropriate for your needs.
 
 Well we couldn't not mention [D3.js](http://d3js.org/) in talking about data visualisation. Michael Bowman's [Designing Beautiful Maps with D3.js](http://bowmanmc.github.io/designing_maps/) talk is worth a look to familiarise yourself with the topic, and then head on over to this [truly exhaustive list](http://bl.ocksplorer.org/#/search/d3.geo) of examples of using D3 for maps on [bl.ocksplorer.org](http://bl.ocksplorer.org).
+
+![A screenshot of the D3.js homepage](../imgs/d3js.jpg)
 
 The team behind the graphing library Highcharts have a separate [Highmaps](http://www.highcharts.com/maps/demo) library that makes creating mapping data visualisations a breeze.
 
