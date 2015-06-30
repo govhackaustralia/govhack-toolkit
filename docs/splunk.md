@@ -18,6 +18,7 @@ A [free 15 day trial of Splunk Cloud](https://www.splunk.com/getsplunk/onlinesan
 Splunk Enterprise is available as a free 60 day trial. If you need to index more than 500MB data per day for GovHack 2015, email [govhack@splunk.com](mailto:govhack@splunk.com) with your team name to request a larger trial licence.
 
 A [Splunk Enterprise AMI](https://aws.amazon.com/marketplace/pp/B00GIZITUO) is available if you want to get up and running quickly on AWS.
-## Getting Help
+
+# Getting Help
 
 The Splunk team will be available throughout GovHack to assist you. Join Splunk’s GovHack chat room on EFNet IRC channel #splunk-govhack (see [https://irccloud.com](https://irccloud.com) if you’re unfamiliar with IRC) or email govhack@splunk.com. The Splunk team will be available in person at some locations in Brisbane, Canberra, Melbourne, and Sydney.
