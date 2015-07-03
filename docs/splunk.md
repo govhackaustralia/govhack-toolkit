@@ -2,7 +2,7 @@
 
 *Splunk are a sponsor of GovHack 2015*
 
-Splunk provides an easy to use platform for searching, analysing, and visualising data; including mapping visualisations, structured and unstructured data. Splunk is available as a hosted service Splunk Cloud, or as a software package you install on a platform that you manage with Splunk Enterprise.
+Splunk provides a platform for searching, analysing, and visualising structured and unstructured data. Splunk provides a powerful statistical analysis capability from an easy to use search interface. Splunk is available as a hosted service (Splunk Cloud), or as a software package you install on your own platform (Splunk Enterprise).
 
 For examples of how Splunk has been used at GovHack-like events in the past, visit [splunk4good](http://splunk4good.com) and [Splunk blog posts from David Greenwood](http://blogs.splunk.com/author/dgreenwood/).
 
@@ -17,7 +17,7 @@ A [free 15 day trial of Splunk Cloud](https://www.splunk.com/getsplunk/onlinesan
 
 Splunk Enterprise is available as a free 60 day trial. If you need to index more than 500MB data per day for GovHack 2015, email [govhack@splunk.com](mailto:govhack@splunk.com) with your team name to request a larger trial licence.
 
-A [Splunk Enterprise AMI](https://aws.amazon.com/marketplace/pp/B00GIZITUO) is available if you want to get up and running quickly on AWS.
+A [Splunk Enterprise AMI](https://aws.amazon.com/marketplace/pp/B00PUXWXNE) is available if you want to get up and running quickly on AWS.
 
 # Getting Help
 
