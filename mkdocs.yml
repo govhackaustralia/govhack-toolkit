@@ -21,3 +21,4 @@ site_favicon: imgs/favicon.ico
 extra_javascript: [scripts/fix-title.js]
 google_analytics: ['UA-45822127-3', 'govhack-toolkit.readthedocs.org']
 docs_dir: docs
+site_dir: site

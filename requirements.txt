@@ -6,6 +6,6 @@ backports.ssl-match-hostname==3.4.0.2
 certifi==2015.04.28
 ghp-import==0.4.1
 livereload==2.3.2
-mkdocs==0.12.2
+mkdocs==0.15.0
 tornado==4.1
 wsgiref==0.1.2
